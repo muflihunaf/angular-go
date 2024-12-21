@@ -18,7 +18,7 @@ npm run start
 To install the backend dependencies, navigate to the backend directory and use the following commands:
 ```sh
 cd backend
-go get ./...
+go get 
 go mod download
 ```
 
